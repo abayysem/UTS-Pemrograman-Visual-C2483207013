@@ -37,11 +37,15 @@ menghitung kembalian. Aplikasi tidak menggunakan database.
 
 ## Tangkapan Layar
 
-### Uji Coba pertama
+### Uji Coba Pertama
 ![Uji coba pertama](screenshots/Nasigoreng.png)
 
-### Uji Coba kedua
+### Uji Coba Kedua
 ![Uji Coba kedua](screenshots/Mieayam.png)
 
 ### Uji Coba Ketiga
 ![Uji Coba Ketiga](screenshots/Esteh.png)
+
+### Uji Coba Perhitungan
+![Uji Coba Perhitungan](screenshots/Sateayam.png)
+
